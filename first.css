@@ -1,0 +1,26 @@
+body {
+	font-family: Rockwell, Matura MT Script Capitals, Consolas;
+	background-color: rgba(138,169,243,0.2);
+	color: rgb(64,0,128);
+	font-size: 25px;
+}
+h1 {
+	text-align: center;
+}
+p dfn {
+	color: rgb(5,126,66);
+}
+a:link{
+	color: deeppink;
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: green;
+	text-decoration: underline;
+}
+a:active{
+	color: darkcyan;
+}
