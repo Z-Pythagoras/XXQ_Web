@@ -37,14 +37,14 @@ SAT Subject Tests are 20 multiple-choice standardized tests given by the College
 <input type="radio" name="percent" value="D" /> D. 12%<br />
 <input type="radio" name="percent" value="E" /> E. 16%<br />
 </form>
-<form method="post" name="scq4">4. In the diagram above, line AB is parallel to line CD, and line EF is perpendicular to line CD.What is the measure of angle x?<img src="images/i4.jpg" alt="i4"><br />
+<form method="post" name="scq4">4. In the diagram above, line AB is parallel to line CD, and line EF is perpendicular to line CD.What is the measure of angle x?<img src="i4.jpg" alt="i4"><br />
 <input type="radio" name="degree" value="A" /> A. 40 degrees<br />
 <input type="radio" name="degree" value="B" /> B. 45 degrees<br />
 <input type="radio" name="degree" value="C" /> C. 50 degrees<br />
 <input type="radio" name="degree" value="D" /> D. 60 degrees<br />
 <input type="radio" name="degree" value="E" /> E. 80 degrees<br />
 </form>
-<form method="post" name="scq5">5. Triangle BDC, shown above, has an area of 48 square units. If ABCD is a rectangle, what is the area of the circle in square units?<img src="images/i5.jpg" alt="i5"><br />
+<form method="post" name="scq5">5. Triangle BDC, shown above, has an area of 48 square units. If ABCD is a rectangle, what is the area of the circle in square units?<img src="i5.jpg" alt="i5"><br />
 <input type="radio" name="area" value="A" /> A. 6&pi; square units<br />
 <input type="radio" name="area" value="B" /> B. 12&pi; square units<br />
 <input type="radio" name="area" value="C" /> C. 24&pi; square units<br />
